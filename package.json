@@ -1,0 +1,27 @@
+{
+  "name": "wmi-client-chinese",
+  "version": "1.0.0",
+  "description": "Wrapper around the WMI client. Linux and Windows WMI clients are supported.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "install": "node scripts/install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwson/wmi-client.git"
+  },
+  "keywords": [
+    "wmi",
+    "wmic"
+  ],
+  "author": "Nickolay Alexandrov <nick.alexandrov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rwson/wmi-client/issues"
+  },
+  "homepage": "https://github.com/rwson/wmi-client",
+  "dependencies": {
+    "getos": "^2.6.0"
+  }
+}
