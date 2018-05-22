@@ -1,6 +1,6 @@
 {
   "name": "wmi-client-chinese",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper around the WMI client. Linux and Windows WMI clients are supported. fixed chinese garbled problem.",
   "main": "index.js",
   "scripts": {
